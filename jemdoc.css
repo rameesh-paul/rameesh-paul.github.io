@@ -4,18 +4,13 @@ table#tlayout {
     border: none;
     border-collapse: separate;
     background: white;
-    height:850px;
 }
 
 body {
 	background: white;
 	font-family: Georgia, serif;
-	padding-bottom: 18px;
-	margin: auto;
-	width:1000px;
-	height:850px;
-	border:1px solid gray;
-	padding:10px;
+	padding-bottom: 8px;
+	margin: 0;
 }
 
 #layout-menu {
